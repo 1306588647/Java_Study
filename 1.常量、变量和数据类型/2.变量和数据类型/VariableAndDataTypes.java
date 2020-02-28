@@ -1,4 +1,4 @@
-public class Demo {
+public class VariableAndDataTypes {
     public static void main(String[] args) {
         //定义字节型变量
         byte b = 100;

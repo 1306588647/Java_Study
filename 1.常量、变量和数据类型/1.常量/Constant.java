@@ -1,4 +1,4 @@
-public class Demo {
+public class Constant {
     public static void main(String[] args) {
         //字符串常量
         System.out.println("123456");

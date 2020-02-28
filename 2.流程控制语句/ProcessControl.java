@@ -1,4 +1,4 @@
-public class Demo {
+public class ProcessControl {
     public static void main(String[] args) {
     //顺序结构
         System.out.println("今天天日风和日丽！");
