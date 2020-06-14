@@ -13,7 +13,7 @@ public class DemoExtendsMethod {
     public static void main(String[] args) {
         Zi zi = new Zi();
 
-        zi.methodFi();
+        zi.methodFu();
         zi.methodZi();
 
         System.out.println("======================");

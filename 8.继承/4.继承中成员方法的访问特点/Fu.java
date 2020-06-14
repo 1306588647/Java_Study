@@ -1,5 +1,5 @@
 public class Fu {
-    public void methodFi(){
+    public void methodFu(){
         System.out.println("父类方法执行啦！");
     }
 
