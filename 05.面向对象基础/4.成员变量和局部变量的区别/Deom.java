@@ -4,7 +4,7 @@
 
 1.定义的为止不一样【重点】
 局部变量：在方法内部
-成员变量：字啊方法的外部，直接写在类当中
+成员变量：在方法的外部，直接写在类当中
 
 2.作用范围不一样【重点】
 局部变量：只有方法当中可以用，出了方法就不能用了
@@ -30,7 +30,7 @@ public class Deom {
     public static void method(){
         int num;    //局部变量
         System.out.println(name);//输出默认值
-        //System.out.println(num);输出错误
+        //System.out.println(num);输出错误，因为局部变量未初始化
     }
 
 
