@@ -11,8 +11,8 @@ int             Integer          【特殊】
 long            Long
 float           Float
 double          Double
-char            Character
-boolean         Boolean          【特殊】
+char            Character        【特殊】
+boolean         Boolean          
 
 
 从JDK 1.5+开始，支持自动装箱、自动拆箱
