@@ -1,0 +1,1 @@
+https://gitee.com/gghworld/images/raw/master/img/Java继承的三个特点.png
