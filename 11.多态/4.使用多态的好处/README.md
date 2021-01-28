@@ -1,0 +1,1 @@
+https://gitee.com/gghworld/images/raw/master/img/使用多态的好处.png

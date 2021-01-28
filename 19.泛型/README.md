@@ -1,0 +1,1 @@
+https://gitee.com/gghworld/images/raw/master/img/泛型的概念.jpg

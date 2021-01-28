@@ -1,0 +1,1 @@
+https://gitee.com/gghworld/images/raw/master/img/StringBuilder的原理.jpg
