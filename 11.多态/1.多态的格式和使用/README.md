@@ -1,1 +1,1 @@
-![多态的概述](https://gitee.com/gghworld/images/raw/master/img/多态的概述.png)
+https://gitee.com/gghworld/images/raw/master/img/多态的概述.png
