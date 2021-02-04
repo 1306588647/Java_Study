@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca9390f6-6cc4-45c1-afb6-4bd27e165006" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/06.常用的API_1/4.ArrayList类/DemoArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/06.常用的API_1/4.ArrayList类/DemoArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06.常用的API_1/7.Math类/DemoMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/06.常用的API_1/7.Math类/DemoMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.static关键字/2.静态static关键字修饰成员方法/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/07.static关键字/2.静态static关键字修饰成员方法/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.接口/1.接口定义基本格式/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/10.接口/1.接口定义基本格式/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.常用API_2/03.Calendar类/DemoCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/17.常用API_2/03.Calendar类/DemoCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.泛型/03.含有泛型的方法的定义和使用/MainDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/19.泛型/03.含有泛型的方法的定义和使用/MainDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.List和Set集合/06.HashSet集合/2.哈希值/DemoHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/20.List和Set集合/06.HashSet集合/2.哈希值/DemoHashCode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nUdtOPgTDPfLr54uq73XAtJtA8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/untitled" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca9390f6-6cc4-45c1-afb6-4bd27e165006" name="Default Changelist" comment="" />
+      <created>1611448820426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611448820426</updated>
+      <workItem from="1611448822292" duration="608000" />
+      <workItem from="1611979820927" duration="723000" />
+      <workItem from="1611980578887" duration="117000" />
+      <workItem from="1611980768671" duration="739000" />
+      <workItem from="1611981523653" duration="33000" />
+      <workItem from="1611981569839" duration="521000" />
+      <workItem from="1611982104594" duration="45000" />
+      <workItem from="1611982161630" duration="31000" />
+      <workItem from="1611982205259" duration="1351000" />
+      <workItem from="1612098210299" duration="861000" />
+      <workItem from="1612148523403" duration="4192000" />
+      <workItem from="1612154474365" duration="848000" />
+      <workItem from="1612155379026" duration="10000" />
+      <workItem from="1612164551630" duration="121000" />
+      <workItem from="1612237848138" duration="1730000" />
+      <workItem from="1612241120925" duration="144000" />
+      <workItem from="1612247017834" duration="273000" />
+      <workItem from="1612247306062" duration="11000" />
+      <workItem from="1612275825242" duration="47000" />
+      <workItem from="1612276218101" duration="42000" />
+      <workItem from="1612322481577" duration="595000" />
+      <workItem from="1612324295923" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

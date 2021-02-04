@@ -37,7 +37,7 @@ public class DemoArrayList {
         System.out.println("=================================");
 
 
-        //2.相机和中获取元素，参数是索引编号，返回值就是索引编号对应的元素
+        //2.集合中中获取元素，参数是索引编号，返回值就是索引编号对应的元素
         //public E get(int index);
         System.out.println(list.get(0));
         System.out.println(list.get(1));

@@ -18,6 +18,5 @@ public class MainDemo {
         GenericMethod.method2("静态方法");
         GenericMethod.method2(true);
 
-
     }
 }

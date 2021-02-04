@@ -16,13 +16,13 @@ public class DemoHashCode {
 
         Person person1 = new Person();
         int num1 = person1.hashCode();
-        System.out.println(num1);//13648335
-        System.out.println(person1);//Person@d041cf
+        System.out.println(num1);//2129789493
+        System.out.println(person1);//Person.Person@7ef20235
 
         Person person2 = new Person();
         int num2 = person2.hashCode();
-        System.out.println(num2);//13648335
-        System.out.println(person2);//Person@129a8472
+        System.out.println(num2);//668386784
+        System.out.println(person2);//Person.Person@27d6c5e0
 
         /*
             toString方法的源码:

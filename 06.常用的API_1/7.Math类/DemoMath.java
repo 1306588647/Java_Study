@@ -27,6 +27,9 @@ public class DemoMath {
 
         System.out.println(Math.PI);
 
+        int a=10;
+        Math.
+
 
 
 

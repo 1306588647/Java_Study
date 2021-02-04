@@ -20,7 +20,6 @@ public class MyClass {
         System.out.println(numStatic);
         //静态方法不能直接访问非静态【重点】
         //System.out.println(num);
-
     }
 
 }
